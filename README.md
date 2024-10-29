@@ -1,4 +1,4 @@
-# Segmentación de Clientes para Optimización de Marketing y Gestión de Riesgo
+# Segmentación de Clientes para Optimización de Marketing y Gestión de Riesgos
 
 ## Introducción
 
